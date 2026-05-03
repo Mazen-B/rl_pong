@@ -144,7 +144,7 @@ The following results were obtained using seed=0 and 2M timesteps:
 | DQN      | +20.4 | 0.49 | 20 | 21 |
 | PPO      | +19.7 | 0.46 | 19 | 20 |
 
-Full evaluation files are available in `results/`.
+Jdon and png evaluation files are available in `results/`.
 
 ---
 ## Monitoring with TensorBoard
