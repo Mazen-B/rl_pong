@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# RL artifacts
+run_dqn_*/
+run_ppo_*/
+
+# Model files
+*.pt
+*.zip
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
